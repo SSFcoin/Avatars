@@ -1,0 +1,2 @@
+# Avatars
+SSF Coin Avatars
