@@ -2,6 +2,7 @@
 
 
 ![SSF](logo.png)
+![SSF](SSFLOGO.png)
 ![SSF](crab.png)
 ![SSF](ssftag.png)
 ![SSF](woodcoin.png)
