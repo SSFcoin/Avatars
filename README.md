@@ -1,5 +1,6 @@
 # Safe Seafood Coin Avatars
 
+![SSF](SSFLOGO200x200.png)
 
 ![SSF](logo.png)
 
